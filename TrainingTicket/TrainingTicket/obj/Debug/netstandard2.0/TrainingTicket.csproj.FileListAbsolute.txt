@@ -1,0 +1,15 @@
+D:\dvl\SDM\PWPP3-Desenvolvimento Xamarin\TrainingTicket\TrainingTicket\TrainingTicket\bin\Debug\netstandard2.0\TrainingTicket.deps.json
+D:\dvl\SDM\PWPP3-Desenvolvimento Xamarin\TrainingTicket\TrainingTicket\TrainingTicket\bin\Debug\netstandard2.0\TrainingTicket.dll
+D:\dvl\SDM\PWPP3-Desenvolvimento Xamarin\TrainingTicket\TrainingTicket\TrainingTicket\bin\Debug\netstandard2.0\ref\TrainingTicket.dll
+D:\dvl\SDM\PWPP3-Desenvolvimento Xamarin\TrainingTicket\TrainingTicket\TrainingTicket\bin\Debug\netstandard2.0\TrainingTicket.pdb
+D:\dvl\SDM\PWPP3-Desenvolvimento Xamarin\TrainingTicket\TrainingTicket\TrainingTicket\obj\Debug\netstandard2.0\TrainingTicket.csprojAssemblyReference.cache
+D:\dvl\SDM\PWPP3-Desenvolvimento Xamarin\TrainingTicket\TrainingTicket\TrainingTicket\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\dvl\SDM\PWPP3-Desenvolvimento Xamarin\TrainingTicket\TrainingTicket\TrainingTicket\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\dvl\SDM\PWPP3-Desenvolvimento Xamarin\TrainingTicket\TrainingTicket\TrainingTicket\obj\Debug\netstandard2.0\TrainingTicket.AssemblyInfoInputs.cache
+D:\dvl\SDM\PWPP3-Desenvolvimento Xamarin\TrainingTicket\TrainingTicket\TrainingTicket\obj\Debug\netstandard2.0\TrainingTicket.AssemblyInfo.cs
+D:\dvl\SDM\PWPP3-Desenvolvimento Xamarin\TrainingTicket\TrainingTicket\TrainingTicket\obj\Debug\netstandard2.0\TrainingTicket.dll
+D:\dvl\SDM\PWPP3-Desenvolvimento Xamarin\TrainingTicket\TrainingTicket\TrainingTicket\obj\Debug\netstandard2.0\ref\TrainingTicket.dll
+D:\dvl\SDM\PWPP3-Desenvolvimento Xamarin\TrainingTicket\TrainingTicket\TrainingTicket\obj\Debug\netstandard2.0\TrainingTicket.pdb
+D:\dvl\SDM\PWPP3-Desenvolvimento Xamarin\TrainingTicket\TrainingTicket\TrainingTicket\obj\Debug\netstandard2.0\TrainingTicket.csproj.CoreCompileInputs.cache
+D:\dvl\SDM\PWPP3-Desenvolvimento Xamarin\TrainingTicket\TrainingTicket\TrainingTicket\obj\Debug\netstandard2.0\XamlC.stamp
+D:\dvl\SDM\PWPP3-Desenvolvimento Xamarin\TrainingTicket\TrainingTicket\TrainingTicket\obj\Debug\netstandard2.0\CadastroAtividadePage.xaml.g.cs

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TrainingTicket.MainPage">
+    <StackLayout Orientation="Vertical">
+        <ListView x:Name="mylistView"
+                  Margin="20"
+                  ItemSelected="OnItemSelected">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <ViewCell.View>
+                            <StackLayout Orientation="Horizontal">
+                                <Label Text="{Binding Nome}"
+                                        HorizontalOptions="Center"
+                                        VerticalOptions="Center">
+                                </Label>
+                            </StackLayout>
+                        </ViewCell.View>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        <Button Text="Nova Atividade"
+                    Clicked="OnClicked"
+                    x:Name="btnAdd"
+                    BackgroundColor="Blue"
+                    TextColor="White"
+                    Margin="10">
+        </Button>
+
+
+    </StackLayout>
+
+
+</ContentPage>

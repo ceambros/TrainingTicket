@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:behaviorPack="clr-namespace:Xamarin.Forms.BehaviorValidationPack;assembly=Xamarin.Forms.BehaviorValidationPack"
+             x:Class="TrainingTicket.CadastroAtividadePage"
+             Title="Cadastro de Atividade">
+    <ContentPage.Content>
+        <StackLayout Padding="10,20,10,10"
+                     Orientation="Vertical">
+            <Label Text="Nome" TextColor="White"/>
+            <Entry Text="{Binding  Nome}"/>
+            
+            <Label Text="Data" TextColor="White"/>
+            <Entry Text="{Binding  Data}"/>
+            
+            <Button Text="Salvar" FontSize="20" WidthRequest="70" TextColor="White"
+                    Clicked="onSaveAtividade" x:Name="btnSalvar" BackgroundColor="Blue"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
+
+    
+    
+    
